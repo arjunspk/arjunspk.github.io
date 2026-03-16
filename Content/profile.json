@@ -19,7 +19,7 @@
   "Major": "Electrical Engineering",
   "Graduation": "June 2027",
   "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Unemployed",
+  "Employment": "",
   "Skills": ["C++", " Python", " Circuit Analysis", " Breadboarding"],
   "SkillsText": "I have experience with programming languages such as C++ and Python, and basic web technologies like CSS. In electrical engineering, I have developed fundamental skills in circuit analysis and building circuits on breadboards. I enjoy applying these skills in practical projects and continuously improving my technical knowledge.",
   "Resume": "arjun_sapkota_resume.pdf"  
