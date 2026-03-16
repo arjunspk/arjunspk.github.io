@@ -14,11 +14,11 @@
   "GitHub": "https://github.com/arjunspk"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I am currently pursuing a degree in Electrical Engineering, developing both theoretical knowledge and practical skills in electronics and circuit design. My academic journey focuses on understanding electrical systems, programming, and hands-on experimentation with circuits and hardware.",
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2027",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "As an electrical engineering student, I am building a strong foundation in circuit analysis, electronics, and programming. Through coursework and lab projects, I am gaining hands-on experience designing and testing circuits, as well as solving engineering problems using programming tools.",
   "Employment": "",
   "Skills": ["C++", " Python", " Circuit Analysis", " Breadboarding"],
   "SkillsText": "I have experience with programming languages such as C++ and Python, and basic web technologies like CSS. In electrical engineering, I have developed fundamental skills in circuit analysis and building circuits on breadboards. I enjoy applying these skills in practical projects and continuously improving my technical knowledge.",
