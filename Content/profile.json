@@ -11,7 +11,6 @@
   "Phone": "(862) 406-8992",
   "Portfolio": "https://github.com/arjunspk/arjun-sapkota.github.io",
   "LinkedIn": "https://www.linkedin.com/in/sapkotaarjun/",
-  "GitHubRepo": "https://github.com/arjunspk/sallen-key-filter",
 },
 "Experience": {
   "ExperienceText": "I am currently pursuing a degree in Electrical Engineering, developing both theoretical knowledge and practical skills in electronics and circuit design. My academic journey focuses on understanding electrical systems, programming, and hands-on experimentation with circuits and hardware.",
@@ -26,7 +25,7 @@
 },
 "Project1": {
     "Title": "Frequency Detector Sallen-Key Filter Project",
-    "Desc": "Designed and built a 4th-order Sallen-Key bandpass filter to detect a 10 kHz signal while attenuating unwanted frequencies such as 17 kHz and 25 kHz. The project involved circuit design, hand calculations, MATLAB analysis, LTspice simulation, and physical implementation using TL081 op-amps on a breadboard. The results from simulation and lab testing were compared to evaluate the filter performance. <br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "Designed and built a 4th-order Sallen-Key bandpass filter to detect a 10 kHz signal while attenuating unwanted frequencies such as 17 kHz and 25 kHz. The project involved circuit design, hand calculations, MATLAB analysis, LTspice simulation, and physical implementation using TL081 op-amps on a breadboard. The results from simulation and lab testing were compared to evaluate the filter performance.",
     "GitHubRepo": "arjunspk.github.io",
     "MainImage": "main.png",
     "DetailImages": ["MATLAB_simulation.jpg","LTspice_circuit.jpg","LT_spice_simulation.jpg","Physical_build.jpg","FRA_from_scope.jpg"]
