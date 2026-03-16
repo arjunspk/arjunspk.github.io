@@ -2,15 +2,15 @@
 "About": {
   "Name": "Arjun Sapkota",
   "Currently": "Electrical Engineering Student",
-  "Headshot": "Content/student-portrait.jpeg",
-  "Thumbnail": "Content/student-portrait.jpeg",
+  "Headshot": "student-portrait.jpeg",
+  "Thumbnail": "student-portrait.jpeg",
   "AboutText": "Hi, I am Arjun Sapkota. I am an electrical engineering student with a strong interest in electronics, circuits, and power systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I enjoy learning how electrical systems work and solving technical problems related to engineering. I like working on practical projects and improving my skills in areas such as circuit analysis, programming, and electrical design. I am always interested in learning new technologies and gaining hands-on experience through projects and teamwork. Outside of my classes, I try to expand my knowledge by exploring different topics in engineering and technology. I believe that continuous learning and curiosity are important for becoming a good engineer."
 },
 "Contact": {
   "EMail": "sapkotaa@spu.edu",
   "Phone": "(862) 406-8992",
   "Portfolio": "https://github.com/arjunspk/arjun-sapkota.github.io",
-  "LinkedIn": "https://www.linkedin.com/in/sapkotaarjun/",
+  "LinkedIn": "https://www.linkedin.com/in/sapkotaarjun/"
 },
 "Experience": {
   "ExperienceText": "I am currently pursuing a degree in Electrical Engineering, developing both theoretical knowledge and practical skills in electronics and circuit design. My academic journey focuses on understanding electrical systems, programming, and hands-on experimentation with circuits and hardware.",
