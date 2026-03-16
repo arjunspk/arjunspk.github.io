@@ -30,5 +30,6 @@
     "GitHubRepo": "arjunspk.github.io",
     "MainImage": "main.png",
     "DetailImages": ["MATLAB_simulation.jpg","LTspice_circuit.jpg","LT_spice_simulation.jpg","Physical_build.jpg","FRA_from_scope.jpg"]
+    "ProjectFile": "Sallen_key_filter_project.docx"
   }
 }
