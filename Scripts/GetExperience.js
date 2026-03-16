@@ -29,8 +29,9 @@ function updateHTML(configData) {
   document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.EmploymentText;
 
   document.querySelector("#expSkills>h2").innerHTML = "Skills";
-  document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
-  document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
+  const skillsArray = configData.Experience.Skills;
+  const skillsHTML = skillsArray.map(skill => `<span class="skill">${skill}</span>`).join(" ");
+  document.querySelector("#pfSkills").innerHTML = skillsHTML;  document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
 
   // document.querySelector("#pfResume").href = "./Content/".concat(configData.Experience.Resume);
   // document.querySelector("#pfResume").href = "./Content/resume.pdf";
