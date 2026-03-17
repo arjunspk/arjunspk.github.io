@@ -4,7 +4,9 @@
   "Currently": "Electrical Engineering Student",
   "Headshot": "student-portrait.jpeg",
   "Thumbnail": "student-portrait.jpeg",
-  "AboutText": "Hi, I am Arjun Sapkota. I am an electrical engineering student with a strong interest in electronics, circuits, and power systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I enjoy learning how electrical systems work and solving technical problems related to engineering. I like working on practical projects and improving my skills in areas such as circuit analysis, programming, and electrical design. I am always interested in learning new technologies and gaining hands-on experience through projects and teamwork. Outside of my classes, I try to expand my knowledge by exploring different topics in engineering and technology. I believe that continuous learning and curiosity are important for becoming a good engineer."
+  "AboutText": "Hi, I am Arjun Sapkota. I am an electrical engineering student with a strong interest in electronics, circuits, and power systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I enjoy learning how electrical systems work and solving technical problems related to engineering. I like working on practical projects and improving my skills in areas such as circuit analysis, programming, and electrical design. I am always interested in learning new technologies and gaining hands-on experience through projects and teamwork. Outside of my classes, I try to expand my knowledge by exploring different topics in engineering and technology. I believe that continuous learning and curiosity are important for becoming a good engineer.",
+  "GithubRepo" : "https://github.com/arjunspk/sallen-key-filter.github.io"
+
 },
 "Contact": {
   "EMail": "sapkotaa@spu.edu",
@@ -29,8 +31,7 @@
     "Desc": "Designed and built a 4th-order Sallen-Key bandpass filter to detect a 10 kHz signal while attenuating unwanted frequencies such as 17 kHz and 25 kHz. The project involved circuit design, hand calculations, MATLAB analysis, LTspice simulation, and physical implementation using TL081 op-amps on a breadboard. The results from simulation and lab testing were compared to evaluate the filter performance.",
     "MainImage": "main.png",
     "DetailImages": ["MATLAB_simulation.jpg","LTspice_circuit.jpg","LT_spice_simulation.jpg","Physical_build.jpg","FRA_from_scope.jpg"],
-    "ProjectFile": "Sallen_key_filter_project.docx",
-    "GithubRepo" : "https://github.com/arjunspk/sallen-key-filter.github.io"
+    "ProjectFile": "Sallen_key_filter_project.docx"
   
   }
 }
